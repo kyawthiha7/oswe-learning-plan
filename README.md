@@ -66,7 +66,9 @@
 
 ### other refs
 https://github.com/wetw0rk/AWAE-PREP
+
 https://medium.com/swlh/secure-code-review-and-penetration-testing-of-node-js-and-javascript-apps-41485b1a9518
+
 https://forum.hackthebox.eu/discussion/2646/oswe-exam-review-2020-notes-gifts-inside
 https://github.com/lirantal/awesome-nodejs-security
 
