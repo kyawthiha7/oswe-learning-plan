@@ -6,6 +6,12 @@
 - Deserialiation 
     - Java
       - https://www.youtube.com/watch?v=VviY3O-euVQ
+      - https://i.blackhat.com/eu-19/Thursday/eu-19-Zhang-New-Exploit-Technique-In-Java-Deserialization-Attack.pdf
+      - https://owasp.org/www-community/vulnerabilities/Deserialization_of_untrusted_data
+      - https://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/
+      - [Deserialization-cheatsheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet/blob/master/README.md)
+      - https://www.youtube.com/watch?v=oZPZLiY2PeA
+      - https://securitylab.github.com/research/in-memory-data-grid-vulnerabilities
     - NODEJS
     - C#
 - php Type Juggling
@@ -15,7 +21,7 @@
 ### Skill
 
 - Source Code Review 
-    - OWASP Secure Code Review
+    - [OWASP Secure Code Review Guide](https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf)
 - Exploit development automation in prefered language
 - dynamic analysis of web application
 
