@@ -59,6 +59,7 @@
   - burp plugin : https://github.com/summitt/burp-ysoserial
 - [GadgetProbe](https://portswigger.net/daily-swig/gadgetprobe-new-tool-simplifies-the-exploitation-of-java-deserialization-vulnerabilities)
 - [NodeJSscan](https://github.com/ajinabraham/NodeJsScan)
+- [Frida-node](https://github.com/frida/frida-node)
 
 ### Books
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
