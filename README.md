@@ -22,6 +22,7 @@
 
 - Source Code Review 
     - [OWASP Secure Code Review Guide](https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf)
+    - https://medium.com/swlh/secure-code-review-and-penetration-testing-of-node-js-and-javascript-apps-41485b1a9518
 - Exploit development automation in prefered language
 - dynamic analysis of web application
 
@@ -57,10 +58,15 @@
   - about payload : http://gursevkalra.blogspot.com/2016/01/ysoserial-commonscollections1-exploit.html
   - burp plugin : https://github.com/summitt/burp-ysoserial
 - [GadgetProbe](https://portswigger.net/daily-swig/gadgetprobe-new-tool-simplifies-the-exploitation-of-java-deserialization-vulnerabilities)
+- [NodeJSscan](https://github.com/ajinabraham/NodeJsScan)
+
+### Books
+- [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
 
 ### other refs
 https://github.com/wetw0rk/AWAE-PREP
-
-
+https://medium.com/swlh/secure-code-review-and-penetration-testing-of-node-js-and-javascript-apps-41485b1a9518
+https://forum.hackthebox.eu/discussion/2646/oswe-exam-review-2020-notes-gifts-inside
+https://github.com/lirantal/awesome-nodejs-security
 
