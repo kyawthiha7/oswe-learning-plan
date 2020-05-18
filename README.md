@@ -3,7 +3,7 @@
 
 ### Vulns to study
 
-- Deserialiation 
+- Deserialization 
     - Java
       - https://www.youtube.com/watch?v=VviY3O-euVQ
       - https://i.blackhat.com/eu-19/Thursday/eu-19-Zhang-New-Exploit-Technique-In-Java-Deserialization-Attack.pdf
