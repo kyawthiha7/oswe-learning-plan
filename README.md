@@ -50,7 +50,7 @@
   - .NET : https://github.com/pwntester/ysoserial.net
   - about payload : http://gursevkalra.blogspot.com/2016/01/ysoserial-commonscollections1-exploit.html
   - burp plugin : https://github.com/summitt/burp-ysoserial
-- [GadgetProbe](tps://portswigger.net/daily-swig/gadgetprobe-new-tool-simplifies-the-exploitation-of-java-deserialization-vulnerabilities)
+- [GadgetProbe](https://portswigger.net/daily-swig/gadgetprobe-new-tool-simplifies-the-exploitation-of-java-deserialization-vulnerabilities)
 
 
 ### other refs
