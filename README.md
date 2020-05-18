@@ -7,9 +7,8 @@
     - Java
       - https://www.youtube.com/watch?v=VviY3O-euVQ
     - NODEJS
-    - C# 
+    - C#
 - php Type Juggling
-  - 
 - Advanced SQLi techniques
 
 
