@@ -13,10 +13,18 @@
       - https://www.youtube.com/watch?v=oZPZLiY2PeA
       - https://securitylab.github.com/research/in-memory-data-grid-vulnerabilities
     - NODEJS
+        - https://www.exploit-db.com/docs/english/41289-exploiting-node.js-deserialization-bug-for-remote-code-execution.pdf
+        - https://blog.websecurify.com/2017/02/hacking-node-serialize.html
+        - https://www.youtube.com/watch?v=t-zVC-CxYjw
+        - [nodejs deserialization cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
     - C#
+        - https://www.youtube.com/watch?v=eDfGpu3iE4Q
 - php Type Juggling
 - Advanced SQLi techniques
 
+## Playground
+- [CTF.LIVE](https://www.ctf.live/)
+- [Hackthebox](https://www.hackthebox.eu/)
 
 ### Skill
 
@@ -49,6 +57,7 @@
 - [SQLi to Shell](https://pentesterlab.com/exercises/from_sqli_to_shell/course)
 - [XSS to RCE](https://pentesterlab.com/exercises/xss_and_mysql_file/course)
 - [pipe](https://www.vulnhub.com/entry/devrandom-pipe,124/)
+- [XVNA](https://github.com/vegabird/xvna)
     
 
 ### Tools
