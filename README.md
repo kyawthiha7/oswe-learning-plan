@@ -19,6 +19,7 @@
         - [nodejs deserialization cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
     - C#
         - https://www.youtube.com/watch?v=eDfGpu3iE4Q
+        - https://www.youtube.com/watch?v=Xfbu-pQ1tIc
 - php Type Juggling
 - Advanced SQLi techniques
 
