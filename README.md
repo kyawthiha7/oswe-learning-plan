@@ -20,6 +20,8 @@
     - C#
         - https://www.youtube.com/watch?v=eDfGpu3iE4Q
         - https://www.youtube.com/watch?v=Xfbu-pQ1tIc
+     - PHP
+        - https://vkili.github.io/blog/insecure%20deserialization/pop-chains/
 - php Type Juggling
 - Advanced SQLi techniques
 
